@@ -13,3 +13,7 @@ few thing happend :
 	3.we want this change to be reflected in 
 	remote repository so We PUSHED local commits to remote repository using push origin button
 	4.Observe it has been added in your repository under Github.com
+
+	How to save after adding some text in sublime On mac command + 5
+	On window control + 5
+	Or Click on File--> save
